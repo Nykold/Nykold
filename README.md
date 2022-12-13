@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="social-badges" align="center">
+  <a href="https://mas.to/@josealvesamaro" target="_blank" ref="me">
+    <img src="https://img.shields.io/badge/Mastodon-6364ff?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/>
+  </a>
+  <a href="https://twitter.com/josealvesamaro" target="_blank" ref="me">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
 <!--
 **Nykold/Nykold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
